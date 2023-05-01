@@ -1,6 +1,6 @@
 # Desafio Dio
-Primeiro Desafio de repositório no GitHub
+Primeiro Desafio de repositório no GitHub 
 
 
 ## Links úteis
-[Suntaxe Básica MarkDown-md)](https://www.markdownguide.org/)
+[Sintaxe Básica MarkDown-md)](https://www.markdownguide.org/)
